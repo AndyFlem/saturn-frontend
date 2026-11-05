@@ -1,0 +1,36 @@
+$font-size-root: 15px;
+$spacer: 2px;
+$headings: (
+    'h1': (
+        'size': var(--headings-size-h1, 6rem),
+    ),
+    'h2': (
+        'size': var(--headings-size-h2, 3.75rem),
+    ),
+    'h3': (
+        'size': var(--headings-size-h3, 3rem),
+    ),
+    'h4': (
+        'size': var(--headings-size-h4, 2.125rem),
+    ),
+    'h5': (
+        'size': var(--headings-size-h5, 1.5rem),
+    ),
+    'h6': (
+        'size': var(--headings-size-h6, 1.25rem),
+    ),
+    'body-1': (
+        'size': var(--text-size-body-1, 1rem),
+    ),
+    'body-2': (
+        'size': var(--text-size-body-2, 0.875rem),
+    ),
+    'button': (
+        'size': var(--text-size-button, 0.83rem),
+        'text-transform': (--text-transform-button, 'lowercase')
+    ),
+    'caption': (
+        'size': var(--text-size-caption, 0.75rem),
+    )
+);
+

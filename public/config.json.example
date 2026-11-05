@@ -1,0 +1,13 @@
+{
+    "API_URL": "https://lhmp.memorialpark.app",
+    "TITLE": "Leopards Hill Memorial Park",
+    "APP_TITLE": "LHMP",
+    "MONEY_SYMBOL": "K",
+    "COL_PRIMARY": "#212121",
+    "COL_SECONDARY": "#ddd",
+    "COL_HOME_ACCENT": "rgb(216, 163, 55)",
+    "MAP_CENTER": [28.3649, -15.4353],
+    "MAP_ZOOM": 17,
+    "PUBLIC_PORTAL": "https://lhmp-public.memorialpark.app",
+    "GEOSERVER_WORKSPACE": "lhmp_live"
+ }
